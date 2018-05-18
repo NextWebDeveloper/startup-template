@@ -1,7 +1,7 @@
 <h1>Fast Startup HTML template based on Gulp & Bootstrap 4</h1>
 
 <ol>
-	<li>Download<strong>OptimizedHTML 4</strong> from GitHub;</li>
+	<li>Download <strong>OptimizedHTML 4</strong> from GitHub;</li>
 	<li>Install Node Modules: <strong>npm i</strong>;</li>
 	<li>Run the template: <strong>gulp</strong>.</li>
 </ol>
